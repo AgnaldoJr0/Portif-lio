@@ -1,0 +1,17 @@
+.center{
+    text-align: center;
+}
+
+item{
+ display: none;
+}
+
+ol{
+    margin-left: 30%;   
+    text-align: justify;
+    list-style: none;
+}
+
+ div{
+    display: block;
+ }
